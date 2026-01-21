@@ -1,1 +1,0 @@
-import{V as o}from"./page-CZ4w7OLX.js";import"./index-CmF5Rmft.js";import"./positions-DydLcud4.js";import"./progress-bar-DwAeoyjf.js";import"./react-select.esm-MgpEQBfs.js";import"./sliceBVaultsStore-hINjqRX1.js";import"./page-wrap-BZ0A3trq.js";import"./events-DKnrrMtK.js";import"./simple-table-BpB8Pkqk.js";import"./noti-DFsoxuch.js";const l=o;export{l as component};
